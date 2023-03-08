@@ -16,7 +16,7 @@ setup(
     author="Guilherme Bracero",
     author_email="guilhermebracero@gmail.com",
     description="Meu primeiro pacote, não possui muita efetividade",
-    url="LEMBRAR DE COLOCAR O LINK"
+    url="",
     packages=find_packages(),
     python_requires=">=3.10"
 )
