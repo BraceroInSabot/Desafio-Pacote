@@ -11,5 +11,12 @@ with open("requirements.txt") as f:
 """
 
 setup(
-    name="package_name"
+    name="return-hello",
+    version="0.0.1",
+    author="Guilherme Bracero",
+    author_email="guilhermebracero@gmail.com",
+    description="Meu primeiro pacote, não possui muita efetividade",
+    url="LEMBRAR DE COLOCAR O LINK"
+    packages=find_packages(),
+    python_requires=">=3.10"
 )
