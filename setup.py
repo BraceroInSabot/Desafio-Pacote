@@ -16,7 +16,7 @@ setup(
     author="Guilherme Bracero",
     author_email="guilhermebracero@gmail.com",
     description="Meu primeiro pacote, não possui muita efetividade",
-    url="",
+    url="https://github.com/BraceroInSabot/Desafio-Pacote",
     packages=find_packages(),
     python_requires=">=3.10"
 )
